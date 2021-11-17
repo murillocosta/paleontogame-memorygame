@@ -32,7 +32,7 @@ h1 {
   position: absolute;
   border-radius: 10px;
   perspective: 600px;
-}
+  }
 
 .card:hover {
   box-shadow: 0 0 10px goldenrod;
