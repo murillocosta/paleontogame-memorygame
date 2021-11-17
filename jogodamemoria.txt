@@ -1,0 +1,6 @@
+tamanho da cartas:
+
+width 165px
+
+height 240px
+
