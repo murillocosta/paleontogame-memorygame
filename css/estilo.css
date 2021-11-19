@@ -6,7 +6,7 @@
 body {
   background-color: #111;
   text-align: center;
-  background-image: url('../img/1260_paleontology.jpg');
+  background-image: url('./../img/1260_paleontology.jpg');
   background-size: 130%;
   
 }
