@@ -19,3 +19,6 @@ Projeto desenvolvido para a matéria Paleontologia da Universidade Federal da Ba
 |Fósseis vivos     |Grupos que tiveram ínfimas  modificações morfológicas ao longo do tempo geológico.                                                   |
 |Diagênese         |Modificações  que o depósito sedimentar apresenta após sua deposição em relação às condições físicas e químicas do ambiente.         |
 |Estratigrafia     |Ramo que estuda os processos e eventos que levaram a formação nas camadas de rochas, seguindo o princípio da sobreposição de camadas.|
+
+
+![image](https://user-images.githubusercontent.com/91096652/150723220-f7ba17ee-2e3b-40ed-8fa5-fffad7f9a727.png)
